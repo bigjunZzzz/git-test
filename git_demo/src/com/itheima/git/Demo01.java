@@ -10,9 +10,10 @@ public class Demo01 {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
+        //hello git
     }
 
-    public void text() {
+    public void txt() {
         System.out.println("1111");
     }
 }
